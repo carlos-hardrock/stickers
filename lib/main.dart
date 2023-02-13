@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:stickers/pages/cromo_page.dart';
 import 'package:stickers/pages/selecao_page.dart';
 
 void main() {
